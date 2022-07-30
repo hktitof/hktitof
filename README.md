@@ -6,6 +6,6 @@ you reach me on :
 
 
 Linkedin : abdelaltif-anaflous
-Instagram : titof_abdo 
+
 
 if you have any questions feel free to contact me :), and this is my email address: hktitof@gmail.com
