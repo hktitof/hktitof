@@ -16,7 +16,7 @@
 <a href="https://stackoverflow.com/users/12980862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12980862" height="30" width="40" /></a>
 <a href="https://fb.com/hktitof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hktitof" height="30" width="40" /></a>
 <a href="https://instagram.com/titof_abdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="titof.abdo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDboa96bd0ITR1kzoP5CTgA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="titof abdellatif anflous" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@abdellatif_anaflous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="titof abdellatif anflous" height="30" width="40" /></a>
 </p>
 
 <br/>
