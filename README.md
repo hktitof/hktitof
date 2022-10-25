@@ -5,7 +5,7 @@
 
 <p align="center">- 👯 looking for collaboration on <a href="https://www.haircut.ma" target="_blank">[Barber booking system]</a></p>
 <p align="center">- 📫 How to reach me <a href="mailto:abdellatif@anaflous.com" target="_blank">[abdellatif@anaflous.com]</a></p>
-<p align="center">- 📄 Know about my experiences <a href="haircut.ma" target="_blank">[anaflous.com]</a></p>
+<p align="center">- 📄 Know about my experiences <a href="https://anaflous.com" target="_blank">[anaflous.com]</a></p>
 <p align="center">- ⚡ Fun fact Computer mouse speed is measured in "Mickeys."</p>
 
 
